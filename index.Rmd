@@ -7,3 +7,4 @@ site: bookdown::bookdown_site
 
 # Executive Summary
 
+![Cooper](C:/Users/avillan/Desktop/Coopie.jpg)

@@ -5,4 +5,4 @@ edit: https://andreavillanes.github.io/MyFirstBookdown/edit/main/%s
 view: https://andreavillanes.github.io/MyFirstBookdown/blob/main/%s
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Section "
